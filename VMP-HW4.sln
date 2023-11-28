@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMP-HW4", "VMP-HW4.csproj", "{896EAC24-C34A-4E0C-AAD5-07C5DBAE285F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{896EAC24-C34A-4E0C-AAD5-07C5DBAE285F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896EAC24-C34A-4E0C-AAD5-07C5DBAE285F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896EAC24-C34A-4E0C-AAD5-07C5DBAE285F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896EAC24-C34A-4E0C-AAD5-07C5DBAE285F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {012D2D03-4AE1-4478-9FB5-048A3E278631}
+	EndGlobalSection
+EndGlobal

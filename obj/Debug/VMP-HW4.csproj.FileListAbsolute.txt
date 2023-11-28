@@ -1,0 +1,2 @@
+C:\Users\camper\OneDrive\Рабочий стол\Учеба\Высокоуровневые методы программирования\Домашка №3\VMP-HW4\obj\Debug\VMP-HW4.csproj.AssemblyReference.cache
+C:\Users\camper\OneDrive\Рабочий стол\Учеба\Высокоуровневые методы программирования\Домашка №3\VMP-HW4\obj\Debug\VMP-HW4.csproj.CoreCompileInputs.cache
